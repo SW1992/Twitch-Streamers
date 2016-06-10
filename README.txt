@@ -2,6 +2,8 @@
  
  Built With HTML, CSS, Bootstrap, jQuery & Javascript.
  
- Uses The Twitch API, to show if a handful of Twitch.tv streamers are currently online & if so, what they're currently streaming.
+ Uses The Twitch API, to show if a handful of Twitch.tv streamers are currently online.
+ 
+ If they are, it shows what they're currently streaming.
 
  This is a FreeCodeCamp Zipline project. https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api
