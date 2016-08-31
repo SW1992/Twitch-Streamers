@@ -25,7 +25,7 @@ $(document).ready(function() {
             // user channel href
             $(".streamer-container").append("<div>");
             $(".streamer-container div").last().append("<img> </img>")
-            $(".streamer-container img").last().attr("src", "https://pixabay.com/static/uploads/photo/2014/11/10/17/48/offline-525700_960_720.png").addClass("img-circle img-responsive");
+            $(".streamer-container img").last().attr("src", "http://i1172.photobucket.com/albums/r576/SW1992/Twitch%20Streamers/offline-525700_960_720_zpssnnvblth.png").addClass("img-circle img-responsive");
             $(".streamer-container div").last().append("<a>" + twitchStreamer + "</a>");
             $(".streamer-container a").last().attr({href: streamerChannel,target: "_blank"});
             $(".streamer-container div").last().append("<p>" + loginStatus + "</p>");
@@ -50,7 +50,7 @@ $(document).ready(function() {
             streamerChannel = "https://s.codepen.io/FreeCodeCamp/fullpage/undefined";
             $(".streamer-container").append("<div>");
             $(".streamer-container div").last().append("<img> </img>")
-            $(".streamer-container img").last().attr("src", 'https://pixabay.com/static/uploads/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png').addClass("img-circle img-responsive");
+            $(".streamer-container img").last().attr("src", "http://i1172.photobucket.com/albums/r576/SW1992/Twitch%20Streamers/blank-profile-picture-973460_960_720_zpsgieeeqqj.png").addClass("img-circle img-responsive");
             $(".streamer-container div").last().append("<a>" + twitchStreamer + "</a>");
             $(".streamer-container a").last().attr({href: streamerChannel,target: "_blank"});
             $(".streamer-container div").last().append("<p>" + loginStatus + "</p>");
